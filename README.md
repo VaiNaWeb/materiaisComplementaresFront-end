@@ -4,9 +4,9 @@ Bem-vindes ao repositório oficial de materiais complementares do curso de Front
 
 # Estrutura do Repositório 🗃
 O repositório está organizado em pastas **por aula**, facilitando a navegação e localização dos materiais desejados:
-📂 MOD2
-  📑aula0 - explicações da aula
-  📑exerciciosAula0 - Exercício para práticar
+  ####  📂 MOD2
+  - 📑aula0 - explicações da aula
+  - 📑exerciciosAula0 - Exercício para prática
 
 ## Contato
 
