@@ -1,4 +1,4 @@
-# JavaScript
+# JavaScript 💻
 
 **O que é JavaScript:**
 JavaScript é uma linguagem de programação de alto nível, interpretada e orientada a objetos. Ela é conhecida por ser a linguagem de script que é executada nos navegadores web, permitindo a interatividade dinâmica nos sites. Além disso, o JavaScript também é utilizado em outros ambientes, como servidores, por meio de plataformas como o Node.js.
@@ -19,7 +19,7 @@ JavaScript é uma linguagem de programação de alto nível, interpretada e orie
 
 Em resumo, JavaScript é uma linguagem versátil amplamente utilizada para o desenvolvimento web, oferecendo suporte à criação de páginas web interativas e dinâmicas, além de aplicativos do lado do servidor.
 
-# Variáveis
+# Variáveis 📦
 ### O que são variáveis:
 Variáveis são "contêineres" para armazenar valores em programação. Elas são usadas para armazenar e manipular dados durante a execução de um programa. Em JavaScript, você pode usar variáveis para armazenar diferentes tipos de dados, como números, strings, objetos e assim por diante.
 
