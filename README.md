@@ -31,7 +31,7 @@ O repositório está organizado em pastas **por tema**, facilitando a navegaçã
  <a href="./MOD1/08.Cor e Tipografia.md" >Cor e Tipografia </a>
    </li>
    <li>
- <a href="./MOD1/09.Display, Posicionamento e box.md" >Display, posicionamento e Box</a>
+ <a href="./MOD1/09.Display e box-model.md" >Display e Box-model</a>
    </li>
    <li>
     <a href="./MOD1/10.Medidas CSS.md" >Medidas</a>
