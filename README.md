@@ -36,8 +36,18 @@ O repositório está organizado em pastas **por tema**, facilitando a navegaçã
    <li>
     <a href="./MOD1/10.Medidas CSS.md" >Medidas</a>
    </li>
-   <li></li>
-   <li></li>
+   <li>
+      <a href='./MOD1/11.Flexbox.md'>Flexbox</a>
+   </li>
+   <li>
+       <a href=''>Position</a>
+   </li>
+   <li>
+       <a href=''>Responsividade</a>
+   </li>
+   <li>
+       <a href=''></a>
+   </li>
 </ol>
 
 | <img src='https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-4.png' width = '50px'/> | Javascript |
