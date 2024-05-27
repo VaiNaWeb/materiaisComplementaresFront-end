@@ -100,6 +100,20 @@ O repositório está organizado em pastas **por tema**, facilitando a navegaçã
    </li>
 </ol>
 
+| <img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_original_wordmark_logo_icon_146305.png' width = '50px'/> | VueJS |
+| ----------------------------------------------------------------------------------------------------- | ---------- |
+
+<ol>
+   <li>
+   </li>
+   <li>
+   </li>
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+</ol>
+
 ## Contato
 
 - Se você tiver dúvidas fale com o seu/sua instrutor(a)/facilitador(a).
