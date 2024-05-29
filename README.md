@@ -16,8 +16,6 @@ O repositório está organizado em pastas **por tema**, facilitando a navegaçã
     <li>
         <a href="./MOD1/05.Conhecendo as tags.md" >Tags HTML </a>
     </li>
-    <li></li>
-   <li></li>
 </ol>
 
 | <img src='https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-2834x4000.png' width = '50px'/> | CSS |
@@ -40,13 +38,10 @@ O repositório está organizado em pastas **por tema**, facilitando a navegaçã
       <a href='./MOD1/11.Flexbox.md'>Flexbox</a>
    </li>
    <li>
-       <a href=''>Position</a>
+       <a href='./MOD1/13.Position.md'>Position</a>
    </li>
    <li>
-       <a href=''>Responsividade</a>
-   </li>
-   <li>
-       <a href=''></a>
+       <a href='./MOD1/12.Responsividade.md'>Responsividade</a>
    </li>
 </ol>
 
