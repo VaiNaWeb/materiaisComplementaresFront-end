@@ -56,8 +56,12 @@ O repositório está organizado em pastas **por tema**, facilitando a navegaçã
     <a href="./MOD2/LogicaDeProgramacao/02.tiposDeDados.md" >Tipos de dados</a></li>
    <li> <a href="./MOD2/LogicaDeProgramacao/03. Condicionais.md" >Estruturas Condicionais</a>
    </li>
-   <li></li>
-   <li></li>
+   <li>
+    <a href="./MOD2/LogicaDeProgramacao/04.Repetição.md" >Estruturas de Repetição (Loops)</a>
+   </li>
+   <li>
+      <a href="" >Funções</a>
+   </li>
    <li></li>
 </ol>
 
