@@ -1,0 +1,155 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  background-color: #ddd9ce;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 1px solid black;
+  height: 10vh;
+
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  width: 20%;
+  justify-content: space-around;
+}
+
+li {
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+li:hover {
+  cursor: pointer;
+  transform: scale(120%);
+  color: blue;
+  border-bottom: 1px solid;
+}
+
+nav img {
+  width: 5%;
+  height: 100%;
+}
+
+.tela-boas-vindas {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 90vh;
+  background-color: #0f2398;
+}
+
+.container-texto {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 57%;
+  height: 80%;
+  color: white;
+}
+
+.container-texto h1 {
+  font-family: "Edu TAS Beginner", cursive;
+  font-optical-sizing: auto;
+  font-weight: bolder;
+  font-style: normal;
+  font-size: 100px;
+}
+
+.container-texto p {
+  font-size: 30px;
+}
+
+.equipe {
+  height: 150vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #ede8da;
+}
+
+.equipe .title{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  color: #0f2398;
+  font-size: 50px;
+  font-family: "Edu TAS Beginner", cursive;
+}
+
+.container {
+  height: 35vh;
+  display: flex;
+  justify-content: space-around;
+ 
+}
+
+.card {
+  width: 20vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  font-family: "Roboto", sans-serif;
+  font-size: large;
+  border-right: 1px solid #8f8d89 ;
+}
+
+.card img {
+  width: 40%;
+  border-radius: 100%;
+}
+
+.card h1 {
+  color: #0f2398;
+}
+
+@media (min-width: 201px) and (max-width: 500px) {
+  
+  .equipe{
+    height: 200vh;
+  }
+  .equipe .title {
+    font-size: 20px;
+  }
+
+  .container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .card{
+    width: 100vw;
+  }
+
+  .card img {
+    width: 10%;
+  }
+
+  .card h1 {
+    font-size: 20px;
+  }
+
+  .card h3 {
+    font-size: 10px;
+  }
+
+}
