@@ -5,6 +5,19 @@ Bem-vindes ao repositório oficial de materiais complementares do curso de Front
 # Estrutura do Repositório 🗃
 
 O repositório está organizado em pastas **por tema**, facilitando a navegação e localização dos materiais desejados:
+
+| <img width="70" height="70" src="https://img.icons8.com/fluency/70/services.png" alt="services"/> | Instalação Ferramentas necessárias |
+| ------------- | ------------- |
+
+<ol>
+    <li>
+        <a href="./MOD1/Instalação do visualCode.md" >Instalação do Visual Studio Code </a>
+    </li>
+    <li>
+        <a href="./MOD1/Instalação do git.md" >Instalação do Git </a>
+    </li>
+</ol>
+
 | <img src='https://logodownload.org/wp-content/uploads/2016/10/html5-logo-2834x4000.png' width = '50px'/> | HTML |
 | ------------- | ------------- |
 
@@ -45,6 +58,36 @@ O repositório está organizado em pastas **por tema**, facilitando a navegaçã
    </li>
 </ol>
 
+| <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png?20150315202757' width='68px'/> | Sass |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+
+<ol>
+ <li>
+      <a href="./MOD1/Sass/01. O que é o Sass.md" >O que é o Sass</a>
+  </li>
+   <li>
+ <a href="./MOD1/Sass/02. Como utilizar Sass com HTML.md" >Como utilizar o Sass com HTML</a>
+   </li>
+   <li>
+ <a href="./MOD1/Sass/03. Variáveis em Sass.md" >Variáveis em Sass</a>
+   </li>
+   <li>
+    <a href="./MOD1/Sass/04. Nesting em Sass.md" >Nesting em Sass</a>
+   </li>
+   <li>
+      <a href='./MOD1/Sass/05. Partials em Sass.md'>Partials em Sass</a>
+   </li>
+   <li>
+       <a href='./MOD1/Sass/06. Extend em Sass.md'>Extend em Sass</a>
+   </li>
+   <li>
+       <a href='./MOD1/Sass/07.Mixins em Sass.md'>Mixins em Sass</a>
+   </li>
+   <li>
+       <a href='./MOD1/Sass/08 Funções Nativas do Sass.md'>Funções nativas do Sass</a>
+   </li>
+</ol>
+
 | <img src='https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-4.png' width = '50px'/> | Javascript |
 | ----------------------------------------------------------------------------------------------------- | ---------- |
 
@@ -60,9 +103,18 @@ O repositório está organizado em pastas **por tema**, facilitando a navegaçã
     <a href="./MOD2/LogicaDeProgramacao/04.Repetição.md" >Estruturas de Repetição (Loops)</a>
    </li>
    <li>
-      <a href="" >Funções</a>
+      <a href="#" >Funções</a>
    </li>
-   <li></li>
+   <a href="#">
+   <li>
+   <a href="#">Arrays</a>
+   </li>
+   <li> 
+      <a href="#">Objetos </a>
+   </li>
+   <li>
+   <a href="#">DOM - Document Object Model</a>
+   </li>
 </ol>
 
 | <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png' width = '50px'/> | ReactJs |
@@ -111,7 +163,7 @@ O repositório está organizado em pastas **por tema**, facilitando a navegaçã
 </ol>
 
 | <img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_original_wordmark_logo_icon_146305.png' width = '50px'/> | VueJS |
-| ----------------------------------------------------------------------------------------------------- | ---------- |
+| ----------------------------------------------------------------------------------------------------------------------- | ----- |
 
 <ol>
    <li>
