@@ -11,10 +11,10 @@ O repositório está organizado em pastas **por tema**, facilitando a navegaçã
 
 <ol>
     <li>
-        <a href="./MOD1/Instalação do visualCode.md" >Instalação do Visual Studio Code </a>
+        <a href="./MOD1/Instalação/01. Instalação do visualCode.md" >Instalação do Visual Studio Code </a>
     </li>
     <li>
-        <a href="./MOD1/Instalação do git.md" >Instalação do Git </a>
+        <a href="./MOD1/Instalação/02. Instalação do git.md" >Instalação do Git </a>
     </li>
 </ol>
 
@@ -150,9 +150,6 @@ O repositório está organizado em pastas **por tema**, facilitando a navegaçã
    </li>
    <li>
       <a href="./MOD2/React/13.API.md" >API</a>
-   </li>
-   <li>
-      <a href="./MOD2/React/14.Sass.md" >Sass</a>
    </li>
      <li>
       <a href="./MOD2/React/06.StyledComponents.md" >Styled-Components</a>
